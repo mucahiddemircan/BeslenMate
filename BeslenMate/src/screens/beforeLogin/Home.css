@@ -1,0 +1,30 @@
+.textTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.textParagraph {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30vw;
+  margin: auto;
+}
+
+.textLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.buttonLogin {
+  display: flex;
+  margin: auto;
+  height: 100px;
+  width: 200px;
+  font-size: 25px;
+  border-radius: 32px;
+}

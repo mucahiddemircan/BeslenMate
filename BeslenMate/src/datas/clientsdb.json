@@ -1,0 +1,157 @@
+{
+  "danisanlar": [
+    {
+      "id": "1",
+      "ad": "Mehmet",
+      "soyad": "Şimşek",
+      "yaş": 38,
+      "kilo": 120,
+      "boy": 175,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "2",
+      "ad": "Ali",
+      "soyad": "Sert",
+      "yaş": 42,
+      "kilo": 100,
+      "boy": 180,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "3",
+      "ad": "Elif",
+      "soyad": "Yılmaz",
+      "yaş": 45,
+      "kilo": 109,
+      "boy": 165,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "4",
+      "ad": "Mustafa",
+      "soyad": "Arslan",
+      "yaş": 36,
+      "kilo": 125,
+      "boy": 178,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "5",
+      "ad": "Fatma",
+      "soyad": "Aydın",
+      "yaş": 32,
+      "kilo": 93,
+      "boy": 160,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "6",
+      "ad": "Sibel",
+      "soyad": "Şahin",
+      "yaş": 48,
+      "kilo": 131,
+      "boy": 170,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "7",
+      "ad": "Hüseyin",
+      "soyad": "Şahin",
+      "yaş": 30,
+      "kilo": 96,
+      "boy": 182,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "8",
+      "ad": "Mustafa",
+      "soyad": "Kaya",
+      "yaş": 26,
+      "kilo": 130,
+      "boy": 175,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "9",
+      "ad": "Sibel",
+      "soyad": "Aydın",
+      "yaş": 49,
+      "kilo": 86,
+      "boy": 162,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "10",
+      "ad": "Emre",
+      "soyad": "Koç",
+      "yaş": 56,
+      "kilo": 87,
+      "boy": 170,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "11",
+      "ad": "Ayşe",
+      "soyad": "Arslan",
+      "yaş": 25,
+      "kilo": 121,
+      "boy": 165,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "12",
+      "ad": "Fatma",
+      "soyad": "Çelik",
+      "yaş": 53,
+      "kilo": 122,
+      "boy": 168,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "13",
+      "ad": "Hüseyin",
+      "soyad": "Kaya",
+      "yaş": 64,
+      "kilo": 105,
+      "boy": 175,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "14",
+      "ad": "Hüseyin",
+      "soyad": "Kılıç",
+      "yaş": 32,
+      "kilo": 122,
+      "boy": 178,
+      "cinsiyet": "erkek"
+    },
+    {
+      "id": "15",
+      "ad": "Fatma",
+      "soyad": "Demir",
+      "yaş": 45,
+      "kilo": 103,
+      "boy": 165,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "16",
+      "ad": "Zeynep",
+      "soyad": "Koç",
+      "yaş": 49,
+      "kilo": 92,
+      "boy": 163,
+      "cinsiyet": "kadın"
+    },
+    {
+      "id": "17",
+      "ad": "Ayşe",
+      "soyad": "Kılıç",
+      "yaş": 60,
+      "kilo": 115,
+      "boy": 160,
+      "cinsiyet": "kadın"
+    }
+  ]
+}

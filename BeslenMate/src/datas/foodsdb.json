@@ -1,0 +1,154 @@
+{
+  "yemekler": [
+    {
+      "tur": "kahvaltı",
+      "isim": "Zeytin ve peynir tabağı",
+      "kalori": 180
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Çırpılmış yumurta",
+      "kalori": 210
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Süt ve tahıl gevreği",
+      "kalori": 220
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Muzlu smoothie",
+      "kalori": 190
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Kızarmış ekmek ve bal",
+      "kalori": 240
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Sarımsaklı peynirli tost",
+      "kalori": 280
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Çilekli yoğurt",
+      "kalori": 170
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Patates kızartması",
+      "kalori": 260
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Acuka ve ekmek",
+      "kalori": 300
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Krem peynirli bagel",
+      "kalori": 320
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Çörek otlu peynir",
+      "kalori": 180
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Mısır gevreği",
+      "kalori": 200
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Fındık ezmesi",
+      "kalori": 250
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Salam ve peynirli omlet",
+      "kalori": 280
+    },
+    {
+      "tur": "kahvaltı",
+      "isim": "Sıcak çikolata",
+      "kalori": 180
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Sebzeli kuzu güveç",
+      "kalori": 420
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Domates soslu makarna",
+      "kalori": 350
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Fırın köfte",
+      "kalori": 380
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Karnabahar graten",
+      "kalori": 300
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Kızarmış tavuk",
+      "kalori": 320
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Balık çorbası",
+      "kalori": 250
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Köri soslu tavuk",
+      "kalori": 400
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Kabak spagetti",
+      "kalori": 350
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Fırın levrek",
+      "kalori": 380
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Kuru fasulye",
+      "kalori": 300
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Tavuklu pilav",
+      "kalori": 420
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Karides güveç",
+      "kalori": 350
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Kuzu kebap",
+      "kalori": 380
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Sebzeli kuskus",
+      "kalori": 320
+    },
+    {
+      "tur": "öğle/akşam yemeği",
+      "isim": "Mantar soslu biftek",
+      "kalori": 400
+    }
+  ]
+}

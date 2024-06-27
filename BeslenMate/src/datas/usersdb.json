@@ -1,0 +1,46 @@
+{
+  "kullanicilar": [
+    {
+      "id": "9941",
+      "email": "mucahid_97cm@hotmail.com",
+      "password": "muco123",
+      "name": "Mücahid",
+      "surname": "Demircan"
+    },
+    {
+      "id": "1abb",
+      "email": "xlauchr01@gmail.com",
+      "password": "Ahmet123",
+      "name": "Ahmet",
+      "surname": "Mahmut"
+    },
+    {
+      "id": "4e66",
+      "email": "eminiyigun@gmail.com",
+      "password": "emin123",
+      "name": "Emin",
+      "surname": "İyigün"
+    },
+    {
+      "id": "601b",
+      "email": "yunus2834@gmail.com",
+      "password": "yunus123",
+      "name": "Yunus",
+      "surname": "Aydın"
+    },
+    {
+      "id": "8e7e",
+      "email": "Deneme@deneme.com",
+      "password": "deneme123",
+      "name": "Ayşe",
+      "surname": "Demir"
+    },
+    {
+      "id": "b861",
+      "email": "ahmet@gmail.com",
+      "password": "ahmet123",
+      "name": "Ahmet",
+      "surname": "Demir"
+    }
+  ]
+}
